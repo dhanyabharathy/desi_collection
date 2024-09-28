@@ -1,0 +1,26 @@
+
+.logo{
+    font-family:"Cinzel", serif;
+    color:brown
+}
+#main_content{
+    height:100px;
+}
+.frontimage{
+    height:500px;
+    width:250px;
+    display:flex;
+}
+.slide{
+    background-color:maroon
+}
+html{
+    background-image: url("./images/Download\ premium\ image\ of\ Paper\ texture\ background\,\ simple\ design\ by\ mook\ about\ plain\ cream\ background\,\ white\ paper\ texture\,\ paper\ texture\ background\,\ cream\ paper\ texture\,\ and\ paper\ texture\ 6418185.jpeg");
+    background-color:bisque;
+}
+.p-3{
+    background-color: rgb(204, 173, 135);
+}
+#myCarousel{
+background-image: url("./images/Wallpaper\ 4K.jpeg");
+}
